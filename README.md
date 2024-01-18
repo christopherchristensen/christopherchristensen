@@ -6,7 +6,7 @@
   - 📊 Learning data science
   - 🎶 Playing music!
   - 🏅 Sports
-- 💼 Current Role: Lead Frontend Developer @edoobox 
+- 💼 Current Role: Lead Full Stack Developer @edoobox 
 - 🕰️ Past Experience: Full Stack Developer at R.J. Design Management
 - 🔗 LinkedIn: [@christopherjameschristensen](https://www.linkedin.com/in/christopherjameschristensen/)
 
