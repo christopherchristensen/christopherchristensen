@@ -4,7 +4,7 @@
 - 🎸 My hobbies are:
   - 💻 Learning more about software development
   - 📊 Learning data science
-  - 🎶 Playing music!
+  - 🎶 [Writing music!](https://open.spotify.com/intl-de/artist/6gxyJ4bn8G7z7FN3S1e0hH?si=Dg7zQ3zWRXC1FpjcLU5XfA)
   - 🏅 Sports
 - 💼 Current Role: Lead Full Stack Developer @edoobox 
 - 🕰️ Past Experience: Full Stack Developer at R.J. Design Management
