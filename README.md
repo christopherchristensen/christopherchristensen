@@ -6,6 +6,7 @@
   - 📊 Learning data science
   - 🎶 [Writing music!](https://open.spotify.com/intl-de/artist/6gxyJ4bn8G7z7FN3S1e0hH?si=Dg7zQ3zWRXC1FpjcLU5XfA)
   - 🏅 Sports
+  - 🖌️ Painting and drawing
 - 💼 Current Role: Lead Full Stack Developer @edoobox 
 - 🕰️ Past Experience: Full Stack Developer at R.J. Design Management
 - 🔗 LinkedIn: [@christopherjameschristensen](https://www.linkedin.com/in/christopherjameschristensen/)
