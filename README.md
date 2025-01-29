@@ -3,7 +3,6 @@
 - 👨‍💻 I'm a passionate hacker from Switzerland! 🇨🇭
 - 🎸 My hobbies are:
   - 💻 Learning more about software development
-  - 📊 Learning data science
   - 🎶 [Writing music!](https://open.spotify.com/intl-de/artist/6gxyJ4bn8G7z7FN3S1e0hH?si=Dg7zQ3zWRXC1FpjcLU5XfA)
   - 🏅 Sports
   - 🖌️ Illustrating and drawing
