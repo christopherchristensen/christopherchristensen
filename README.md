@@ -6,8 +6,8 @@
   - 🎶 [Writing music!](https://open.spotify.com/intl-de/artist/6gxyJ4bn8G7z7FN3S1e0hH?si=Dg7zQ3zWRXC1FpjcLU5XfA)
   - 🏅 Sports
   - 🖌️ Illustrating and drawing
-- 💼 Current Role: Lead Full Stack Developer @edoobox 
-- 🕰️ Past Experience: Full Stack Developer at R.J. Design Management
+- 💼 Current Role: IT Support & Lead Full Stack Developer @opticalight 
+- 🕰️ Past Experience: Lead Full Stack Developer at @edoobox 
 - 🔗 LinkedIn: [@christopherjameschristensen](https://www.linkedin.com/in/christopherjameschristensen/)
 
 Keep coding, keep learning, and keep being awesome! 😊🌟
