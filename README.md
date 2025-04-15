@@ -7,7 +7,9 @@
   - 🏅 Sports
   - 🖌️ Illustrating and drawing
 - 💼 Current Role: IT Support & Lead Full Stack Developer @opticalight 
-- 🕰️ Past Experience: Lead Full Stack Developer at @edoobox 
+- 🕰️ Past Experience:
+  - Lead Full Stack Developer at @edoobox
+  - Full Stack Developer at R.J. Design Management GmbH
 - 🔗 LinkedIn: [@christopherjameschristensen](https://www.linkedin.com/in/christopherjameschristensen/)
 
 Keep coding, keep learning, and keep being awesome! 😊🌟
